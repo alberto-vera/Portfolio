@@ -1,4 +1,4 @@
-![Gráfica de ejemplo](de1_.png)
+![Main Menu](01A Menu.png)
 
 
-![Gráfica de ejemplo](de2_.png)
+![Menu Detail](01B Menu Detail)
