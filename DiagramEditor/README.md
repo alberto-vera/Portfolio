@@ -2,6 +2,7 @@
 ![Main Menu](assets/01A_Menu.png)
 
 **Menu Detail**
+
 ![Menu Detail](assets/01B_MenuDetail.png)
 
 **Real Time**
