@@ -46,7 +46,7 @@
 
 ![Smart Alarms](assets/07A_SmartAlarms.png)
 
-**SmartAlarms - Detai**
+**SmartAlarms - Detail**
 
 ![SmartAlarms - Detail](assets/07B_SmartAlarms_Detail.png)
 
