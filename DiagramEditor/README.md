@@ -1,4 +1,4 @@
-![Main Menu](01A Menu.png)
+![Main Menu](01A_Menu.png)
 
 
-![Menu Detail](01B Menu Detail)
+![Menu Detail](01B_MenuDetail.png)
