@@ -27,7 +27,7 @@
 
 **Cold Reserve - Setpoint Power**
 
-![ColdReserve - Setpoint Power](assets/07_ColdReserve_SetpointPower.png)
+![ColdReserve - Set Point Power](assets/07_ColdReserve_SetpointPower.png)
 
 **Energy Node - Main**
 
