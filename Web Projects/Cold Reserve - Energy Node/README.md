@@ -25,7 +25,7 @@
 
 ![Cold Reserve - Manual Registration](assets/06_ColdReserve_ManualRegistration.png)
 
-**ColdReserve - Setpoint Power**
+**Cold Reserve - Setpoint Power**
 
 ![ColdReserve - Setpoint Power](assets/07_ColdReserve_SetpointPower.png)
 
