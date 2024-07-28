@@ -1,6 +1,6 @@
 **Statistics in Optimal Financial Portfolios**
 
-Statistics applied to Optimal Financial Portfolios under Classical and Bayesian Robust Estimation
+Statistics applied to Optimal Financial Portfolios under Robust Estimators
 
 **Application**
 
