@@ -1,6 +1,7 @@
 **Genetic Algorithms In Robotics**
 
 Genetic Algorithms applied in Robotics.
+
 Development of a system for position control of a robot arm Anthropomorphic minimizing the time and torque applied using Genetic Algorithms
 
 
