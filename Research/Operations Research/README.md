@@ -1,5 +1,6 @@
 **Operations Research**
 
+Operations Research applied in Electric System
 
 **Objective Function**
 
